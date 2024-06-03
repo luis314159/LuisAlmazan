@@ -18,7 +18,7 @@ const Home = () => (
     <br></br>
     <br></br>
     <Title level={1}>Luis Ángel Almazán López</Title>
-    <Paragraph>Electromechanical Engineer and FullStack Developer</Paragraph>
+    <Paragraph>Electromechanical Engineer and Software Developer</Paragraph>
   </section>
 );
 
