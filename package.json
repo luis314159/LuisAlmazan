@@ -2,7 +2,7 @@
   "name": "cv-resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luis314159.github.io/LuisAlmazan",
+  "homepage": "https://luis314159.github.io/LuisAlmazan/",
   "dependencies": {
     "@ant-design/icons": "^5.3.7",
     "@testing-library/jest-dom": "^5.17.0",
