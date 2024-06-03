@@ -1,0 +1,8 @@
+/* global.css */
+.ant-typography {
+    text-align: center;
+    text-indent: 20px; /* Ajusta este valor según la sangría deseada */
+    max-width: 800px; /* Ancho máximo de los párrafos */
+    margin: 0 auto; /* Centrar los párrafos horizontalmente */
+    padding: 20 20px; /* Añadir un poco de padding para que no toquen los bordes */
+  }

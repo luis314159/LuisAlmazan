@@ -10,7 +10,9 @@ import Education from './components/Education';
 import Courses from './components/Courses';
 import Hobbies from './components/Hobbies';
 import Blog from './components/Blog';
+import './global.css'; // Importa el archivo CSS global
 import './App.css';
+
 
 const { Header, Content, Footer } = Layout;
 const { Title } = Typography;

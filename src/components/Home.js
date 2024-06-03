@@ -14,6 +14,9 @@ const Home = () => (
       alt="Luis Ángel Almazán López"
       style={{ borderRadius: '50%', marginTop: '20px' }}
     />
+    <br></br>
+    <br></br>
+    <br></br>
     <Title level={1}>Luis Ángel Almazán López</Title>
     <Paragraph>Electromechanical Engineer and FullStack Developer</Paragraph>
   </section>
