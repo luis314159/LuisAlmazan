@@ -16,7 +16,7 @@ const Skills = () => (
   <section id="skills" style={sectionStyle}>
     <Title level={2} style={titleStyle}>My Skills</Title>
     <Title level={3} style={titleStyle}>Leadership</Title>
-    <Paragraph>With all my experience over the years, I have worked in many teams with people from different areas...</Paragraph>
+    <Paragraph>With all my experience over the years, I have worked in many teams with people from different areas, both receiving orders and being in charge, which has taught me a lot about working with people and being responsible for an entire project.</Paragraph>
     <Divider />
     <Title level={3} style={titleStyle}>Programming Languages</Title>
     <Row justify="center" gutter={[32, 32]}>
