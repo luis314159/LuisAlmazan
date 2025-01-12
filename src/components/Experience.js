@@ -10,6 +10,18 @@ const Experience = () => (
   <section id="experience" style={sectionStyle}>
     <Title level={2}>Experience</Title>
     <div>
+      <Title level={3}>AI and Software developer at Visteon, Chihuahua</Title>
+      <Row justify="center">
+        <Col>
+          <Image src={`${process.env.PUBLIC_URL}/images/Works/visteon-vector-logo.png`} width={imageSize} alt="Visteon" />
+        </Col>
+      </Row>
+      <Paragraph>June 2024 - Present</Paragraph>
+      <Paragraph>Computer vission and LLM development for diferent aplications using, TF, 
+      pytorch, langchain, hugingface and azure ML.</Paragraph>
+      <Divider />
+    </div>
+    <div>
       <Title level={3}>Professor at La Salle Chihuahua</Title>
       <Row justify="center">
         <Col>

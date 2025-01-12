@@ -56,7 +56,7 @@ function App() {
           <section id="resume" style={sectionStyle}>
             <Divider />
             <Title level={2}>Resume</Title>
-            <Button type="primary" icon={<DownloadOutlined />} size="large" href="https://drive.google.com/file/d/1eeS1tpHxPXt-72f9wbj65I_aXIlM7wt7/view?usp=drive_link" target="_blank">
+            <Button type="primary" icon={<DownloadOutlined />} size="large" href="https://drive.google.com/file/d/1uVW75Q8glvQOd_-E08MHc2JPk22SBZHe/view?usp=sharing" target="_blank">
               Download my Resume
             </Button>
           </section>
